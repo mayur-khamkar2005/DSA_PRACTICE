@@ -48,22 +48,22 @@ DSA/
 
 # Topics Covered
 
-| Topic | Status |
+| Topic | Notes |
 |---|---|
-| Arrays | In Progress |
-| Sorting | In Progress |
-| Binary Search | In Progress |
-| Sliding Window | In Progress |
-| Two Pointers | In Progress |
-| Recursion | In Progress |
-| Backtracking | In Progress |
-| Linked List | In Progress |
-| Stack & Queue | In Progress |
-| Trees | In Progress |
-| Heap | In Progress |
-| Graphs | In Progress |
-| Dynamic Programming | In Progress |
-| Strings | In Progress |
+| Arrays | Available 👍|
+| Sorting | Available 👍|
+| Binary Search | Available 👍|
+| Sliding Window | Available 👍|
+| Two Pointers | Available 👍|
+| Recursion | Available 👍|
+| Backtracking | Available 👍|
+| Linked List | Available 👍|
+| Stack & Queue | Available 👍|
+| Trees | Available 👍|
+| Heap | Available 👍|
+| Graphs | Available 👍|
+| Dynamic Programming | Available 👍|
+| Strings | Available 👍|
 
 ---
 
