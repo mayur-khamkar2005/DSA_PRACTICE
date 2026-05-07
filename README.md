@@ -50,20 +50,20 @@ DSA/
 
 | Topic | Notes |
 |---|---|
-| Arrays | Available 👍|
-| Sorting | Available 👍|
-| Binary Search | Available 👍|
-| Sliding Window | Available 👍|
-| Two Pointers | Available 👍|
-| Recursion | Available 👍|
-| Backtracking | Available 👍|
-| Linked List | Available 👍|
-| Stack & Queue | Available 👍|
-| Trees | Available 👍|
-| Heap | Available 👍|
-| Graphs | Available 👍|
-| Dynamic Programming | Available 👍|
-| Strings | Available 👍|
+| Arrays | Available ✅|
+| Sorting | Available ✅|
+| Binary Search | Available ✅|
+| Sliding Window | Available ✅|
+| Two Pointers | Available ✅|
+| Recursion | Available ✅|
+| Backtracking | Available ✅|
+| Linked List | Available ✅|
+| Stack & Queue | Available ✅|
+| Trees | Available ✅|
+| Heap | Available ✅|
+| Graphs | Available ✅|
+| Dynamic Programming | Available ✅|
+| Strings | Available ✅|
 
 ---
 
