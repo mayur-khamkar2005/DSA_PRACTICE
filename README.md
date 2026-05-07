@@ -25,23 +25,23 @@ This repository is being built as a long-term DSA knowledge base with handwritte
 DSA/
 │
 ├── Arrays/
-├── Sorting/
-├── Binary Search/
-├── Sliding Window/
-├── Two Pointers/
-├── Recursion/
 ├── Backtracking/
-├── Linked List/
-├── Stack and Queue/
-├── Trees/
-├── Heap/
-├── Graphs/
-├── Dynamic Programming/
-├── Strings/
-├── Greedy/
+├── Binary Search/
 ├── Bit Manipulation/
+├── DSU/
+├── Dynamic Programming/
+├── Graphs/
+├── Greedy/
+├── Heap/
+├── Linked List/
+├── Recursion/
+├── Sliding Window/
+├── Sorting/
+├── Stack and Queue/
+├── Strings/
+├── Trees/
 ├── Trie/
-└── Disjoint Set Union/
+└── Two Pointers/
 ```
 
 ---
