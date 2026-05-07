@@ -126,13 +126,14 @@ The idea is to build actual problem-solving intuition for coding interviews and 
 
 ---
 
-# Work in Progress
+# Future Updates
 
-This repository is continuously being updated with:
-- new problems
-- optimized solutions
+This repository will continue evolving with:
+- more interview problems
+- optimized approaches
+- advanced algorithms
 - cleaner explanations
-- advanced patterns
-- interview notes
+- additional patterns
+- better visual dry runs
 
-```
+As the repository grows, more advanced interview-focused content and structured notes will be added gradually.
