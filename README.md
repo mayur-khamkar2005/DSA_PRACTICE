@@ -1,0 +1,138 @@
+# DSA Practice
+
+A structured Data Structures & Algorithms repository focused on interview preparation, problem-solving patterns, and clean C++ implementations.
+
+This repository is being built as a long-term DSA knowledge base with handwritten-style notes, intuitive explanations, dry runs, and interview-focused approaches.
+
+---
+
+# What You'll Find Here
+
+- Beginner → Advanced DSA topics
+- Clean and readable C++ implementations
+- Pattern-based learning
+- Time & Space complexity analysis
+- Dry runs and intuition
+- Common interview tricks
+- Common beginner mistakes
+- Real interview problem approaches
+
+---
+
+# Repository Structure
+
+```bash
+DSA/
+│
+├── Arrays/
+├── Sorting/
+├── Binary Search/
+├── Sliding Window/
+├── Two Pointers/
+├── Recursion/
+├── Backtracking/
+├── Linked List/
+├── Stack and Queue/
+├── Trees/
+├── Heap/
+├── Graphs/
+├── Dynamic Programming/
+├── Strings/
+├── Greedy/
+├── Bit Manipulation/
+├── Trie/
+└── Disjoint Set Union/
+```
+
+---
+
+# Topics Covered
+
+| Topic | Status |
+|---|---|
+| Arrays | In Progress |
+| Sorting | In Progress |
+| Binary Search | In Progress |
+| Sliding Window | In Progress |
+| Two Pointers | In Progress |
+| Recursion | In Progress |
+| Backtracking | In Progress |
+| Linked List | In Progress |
+| Stack & Queue | In Progress |
+| Trees | In Progress |
+| Heap | In Progress |
+| Graphs | In Progress |
+| Dynamic Programming | In Progress |
+| Strings | In Progress |
+
+---
+
+# Learning Goal
+
+The main goal of this repository is not just solving problems, but understanding:
+
+- why an approach works
+- how to identify patterns
+- how to optimize brute force solutions
+- how interview problems are actually approached
+
+---
+
+# Problem Solving Focus
+
+This repository focuses heavily on:
+
+- Pattern Recognition
+- Interview Thinking
+- Optimization
+- Clean Code
+- Dry Runs
+- Intuition Building
+
+---
+
+# Languages Used
+
+- C++
+- STL (Standard Template Library)
+
+---
+
+# Recommended Learning Order
+
+```text
+1. Arrays
+2. Sorting
+3. Binary Search
+4. Sliding Window
+5. Two Pointers
+6. Recursion
+7. Backtracking
+8. Linked List
+9. Stack & Queue
+10. Trees
+11. Heap
+12. Graphs
+13. Dynamic Programming
+```
+
+---
+
+# Notes
+
+Most explanations here are intentionally written in a simple and practical way instead of textbook-style theory.
+
+The idea is to build actual problem-solving intuition for coding interviews and competitive programming.
+
+---
+
+# Work in Progress
+
+This repository is continuously being updated with:
+- new problems
+- optimized solutions
+- cleaner explanations
+- advanced patterns
+- interview notes
+
+```
